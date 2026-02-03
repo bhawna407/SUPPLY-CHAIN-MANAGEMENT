@@ -16,7 +16,7 @@ Category Lag: The Food and Beverages categories show a higher frequency of "Late
 
 Lead Time Consistency: The Average Days to Deliver stands at 0.42, but the high volume of 16K Late Orders suggests that while the average is low, the variance in delivery times is unacceptably high.
 
-**3. STRATEGIC RECOMMENDATIONS**
+**3. RECOMMENDATIONS**
 Warehouse Optimization: Implement a prioritized dispatch system for Lotus Mart and Coolblue to restore service levels to the 90%+ OTIF threshold immediately.
 
 Route Review in Vadodara: Conduct a deep dive into the Vadodara distribution network to identify why OT % lags behind Surat and Ahmedabad.
@@ -39,7 +39,10 @@ AtliQ Mart'S database structure as seen below consists of 6 tables: dim_customer
 Prior to the beginning of the analysis, a variety of chechks were conducted for quality control & familizarization with the datasets. The SQL Queries utilized to inspect & perform quality checks can be found here.
 
 **Executive Summary**
+
 **Overview of Findings**
+![Dashboard](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/executive%20summary%20supply%20chain%20mang.png)
+
 
 AtliQ Mart’s objective to expand into Tier 1 cities is currently compromised by a significant decline in service reliability, leading to the potential loss of key annual contracts. Analysis of current supply chain performance reveals that the company is operating well below its target service levels, with an overall On-Time (OT) % of 59.03% and an In-Full (IF) % of 52.78%, resulting in a critical On-Time In-Full (OTIF) % of only 29.02%. While the Volume Fill Rate (VOFR) remains high at 96.59%, the Line Fill Rate (LIFR) lags at 65.96%, indicating that while most of the total quantity is delivered, individual product lines within orders are frequently missing or delayed. High-risk customers like Lotus Mart, Coolblue, and Acclaimed Stores are experiencing the most severe service gaps, with average delivery delays of 0.42 days beyond the agreed-upon dates. To stabilize operations for future expansion, AtliQ Mart must prioritize inventory optimization for the Dairy category (which shows the lowest fill rates) and implement urgent logistics interventions in Vadodara, the city currently showing the weakest performance across all key delivery metrics.
 
