@@ -44,3 +44,39 @@ Prior to the beginning of the analysis, a variety of chechks were conducted for 
 AtliQ Mart’s objective to expand into Tier 1 cities is currently compromised by a significant decline in service reliability, leading to the potential loss of key annual contracts. Analysis of current supply chain performance reveals that the company is operating well below its target service levels, with an overall On-Time (OT) % of 59.03% and an In-Full (IF) % of 52.78%, resulting in a critical On-Time In-Full (OTIF) % of only 29.02%. While the Volume Fill Rate (VOFR) remains high at 96.59%, the Line Fill Rate (LIFR) lags at 65.96%, indicating that while most of the total quantity is delivered, individual product lines within orders are frequently missing or delayed. High-risk customers like Lotus Mart, Coolblue, and Acclaimed Stores are experiencing the most severe service gaps, with average delivery delays of 0.42 days beyond the agreed-upon dates. To stabilize operations for future expansion, AtliQ Mart must prioritize inventory optimization for the Dairy category (which shows the lowest fill rates) and implement urgent logistics interventions in Vadodara, the city currently showing the weakest performance across all key delivery metrics.
 
 Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be downloaded HERE.
+
+**OVERALL SERVICE LEVEL PERFORMANCE**
+This section evaluates the "Perfect Order" efficiency of AtliQ Mart against its internal targets. It highlights the massive gap between the company's current reality and its service goals.
+
+**Metric Analysis**: The company is currently operating at an **OTIF % of 29.02%**, which is a staggering **36.89% below the target of 65.91%**.
+
+**Order Reliability**: While the **On-Time (OT) % is 59.03%** and **In-Full (IF) % is 52.78%**, both are significantly underperforming, indicating that more than half of all customer orders are failing either the punctuality or the quantity requirement.
+
+**Operational Strain**: With **13.11K** orders failing the **In-Full** criteria and **11.39K** orders failing the **On-Time** criteria, there is a systemic failure in matching production/logistics output with customer demand.
+
+**PRODUCT FULFILLMENT & INVENTORY DYNAMICS**
+This analysis focuses on how well AtliQ Mart is filling individual lines and volumes, highlighting a discrepancy between total volume shipped and order accuracy.
+
+**Fill Rate Disparity**: There is a notable gap between the **Volume Fill Rate (VOFR) of 96.59%** and the **Line Fill Rate (LIFR) of 65.96%**. This suggests that while AtliQ delivers the bulk of the requested quantity, they frequently miss specific product lines (SKUs) within an order.
+
+**Category Stress**: The **Dairy** and **Food** categories are the primary drivers of volume, yet they suffer from high order incompletion. Missing even a single line in an FMCG order can lead to a "Service Failure" in the eyes of the retailer.
+
+**Efficiency Metric**: The **Average Days to Deliver** is currently **0.42**, but the high **OT % gap** implies that deliveries are highly inconsistent—some arrive very fast while others are significantly delayed.
+
+**CUSTOMER VULNERABILITY & CONTRACT RISK**
+This section identifies which key partners are at the highest risk of churn due to the service issues mentioned in the project background.
+
+**Critical Churn Risks**: **Lotus Mart, Coolblue, and Acclaimed Stores** are the most neglected customers, with **OTIF % scores** hovering between **20% and 23%**. This explains the speculation that "essential products were not delivered on time or in full."
+
+**Service Inconsistency**: Even the "best" performing customers like Elite Mart only achieve an **OTIF % of ~32%**, which is still less than half of the acceptable service level, indicating no customer is currently receiving "Good" service.
+
+**Priority Metric**: **Lotus Mart** has the highest volume of total orders but a very **low OTIF %**, making it the #1 priority for the supply chain team to prevent a major contract loss.
+
+**GEOGRAPHIC PERFORMANCE BREAKDOWN**
+An analysis of the three operational hubs (Ahmedabad, Surat, and Vadodara) to identify localized logistics bottlenecks.
+
+**Regional Laggard**: **Vadodara** consistently shows the weakest performance, with the **lowest OT % (58.33%)** and **IF % (52.28%)**, leading to the worst regional **OTIF % of 28.51%**.
+
+**Distribution Hub Comparison**: **Ahmedabad** and **Surat** are performing slightly better but still remain within a negligible margin of each other **(approx. 29-30% OTIF)**.
+
+**Expansion Barrier**: Given that not a single city has reached even **50% of its OTIF target**, expanding to Tier 1 cities without fixing the **Vadodara and Ahmedabad logistics networks** would likely lead to a wider failure and brand damage.
