@@ -41,5 +41,6 @@ Prior to the beginning of the analysis, a variety of chechks were conducted for 
 **Executive Summary**
 **Overview of Findings**
 
+AtliQ Mart’s objective to expand into Tier 1 cities is currently compromised by a significant decline in service reliability, leading to the potential loss of key annual contracts. Analysis of current supply chain performance reveals that the company is operating well below its target service levels, with an overall On-Time (OT) % of 59.03% and an In-Full (IF) % of 52.78%, resulting in a critical On-Time In-Full (OTIF) % of only 29.02%. While the Volume Fill Rate (VOFR) remains high at 96.59%, the Line Fill Rate (LIFR) lags at 65.96%, indicating that while most of the total quantity is delivered, individual product lines within orders are frequently missing or delayed. High-risk customers like Lotus Mart, Coolblue, and Acclaimed Stores are experiencing the most severe service gaps, with average delivery delays of 0.42 days beyond the agreed-upon dates. To stabilize operations for future expansion, AtliQ Mart must prioritize inventory optimization for the Dairy category (which shows the lowest fill rates) and implement urgent logistics interventions in Vadodara, the city currently showing the weakest performance across all key delivery metrics.
 
-
+Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be downloaded HERE.
