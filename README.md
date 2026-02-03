@@ -36,6 +36,8 @@ Targeted SQL Queries regarding various business questions and deeper analysis ca
 **Data Structure & Initial Checks**
 AtliQ Mart'S database structure as seen below consists of 6 tables: dim_customers, dim_date, dim_products, dim_target_orders, fact_order_lines, fact_order_aggregate with a total row count of 508,627 records.
 
+![Dashboard](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/DATA%20MODEL%20SUPPLY%20CHAIN%20MANAG.png)
+
 Prior to the beginning of the analysis, a variety of chechks were conducted for quality control & familizarization with the datasets. The SQL Queries utilized to inspect & perform quality checks can be found here.
 
 **Executive Summary**
