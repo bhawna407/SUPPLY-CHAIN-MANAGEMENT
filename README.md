@@ -1,4 +1,5 @@
 **Supply Chain Management Analysis: Service Level Tracking**
+
 **1. PROJECT BACKGROUND**
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India, with operations currently based in Surat, Ahmedabad, and Vadodara. With plans to expand into Tier 1 cities and metros within the next two years, the company has hit a critical roadblock: key customers are refusing to renew annual contracts.
 
