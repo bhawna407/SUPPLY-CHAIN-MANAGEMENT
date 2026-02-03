@@ -49,6 +49,9 @@ AtliQ Mart’s objective to expand into Tier 1 cities is currently compromised b
 Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be downloaded HERE.
 
 **OVERALL SERVICE LEVEL PERFORMANCE**
+
+![Dashboard](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/service%20level%20supply%20chain%20mang.png)
+
 This section evaluates the "Perfect Order" efficiency of AtliQ Mart against its internal targets. It highlights the massive gap between the company's current reality and its service goals.
 
 **Metric Analysis**: The company is currently operating at an **OTIF % of 29.02%**, which is a staggering **36.89% below the target of 65.91%**.
@@ -58,6 +61,9 @@ This section evaluates the "Perfect Order" efficiency of AtliQ Mart against its 
 **Operational Strain**: With **13.11K** orders failing the **In-Full** criteria and **11.39K** orders failing the **On-Time** criteria, there is a systemic failure in matching production/logistics output with customer demand.
 
 **PRODUCT FULFILLMENT & INVENTORY DYNAMICS**
+
+![Dashboard](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/product%20level%20perf.%20supply%20chain%20mang.png)
+
 This analysis focuses on how well AtliQ Mart is filling individual lines and volumes, highlighting a discrepancy between total volume shipped and order accuracy.
 
 **Fill Rate Disparity**: There is a notable gap between the **Volume Fill Rate (VOFR) of 96.59%** and the **Line Fill Rate (LIFR) of 65.96%**. This suggests that while AtliQ delivers the bulk of the requested quantity, they frequently miss specific product lines (SKUs) within an order.
@@ -67,6 +73,9 @@ This analysis focuses on how well AtliQ Mart is filling individual lines and vol
 **Efficiency Metric**: The **Average Days to Deliver** is currently **0.42**, but the high **OT % gap** implies that deliveries are highly inconsistent—some arrive very fast while others are significantly delayed.
 
 **CUSTOMER VULNERABILITY & CONTRACT RISK**
+
+![Dashboard](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/customer%20RISK%20Supply%20chain%20mang.png)
+
 This section identifies which key partners are at the highest risk of churn due to the service issues mentioned in the project background.
 
 **Critical Churn Risks**: **Lotus Mart, Coolblue, and Acclaimed Stores** are the most neglected customers, with **OTIF % scores** hovering between **20% and 23%**. This explains the speculation that "essential products were not delivered on time or in full."
@@ -76,6 +85,9 @@ This section identifies which key partners are at the highest risk of churn due 
 **Priority Metric**: **Lotus Mart** has the highest volume of total orders but a very **low OTIF %**, making it the #1 priority for the supply chain team to prevent a major contract loss.
 
 **GEOGRAPHIC PERFORMANCE BREAKDOWN**
+
+![Dashboard](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/geographical%20perf.%20supply%20chain%20mang.png)
+
 An analysis of the three operational hubs (Ahmedabad, Surat, and Vadodara) to identify localized logistics bottlenecks.
 
 **Regional Laggard**: **Vadodara** consistently shows the weakest performance, with the **lowest OT % (58.33%)** and **IF % (52.28%)**, leading to the worst regional **OTIF % of 28.51%**.
