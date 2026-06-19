@@ -29,9 +29,11 @@ An interactive Power BI Dashboard can be downloaded HERE.
 
 The SQL Queries utilized to inspect and perform quality checks can be found HERE.
 
-SQL Queries utilized to clean, organize, and prepare data for the dashboard can be found HERE.
+SQL Queries utilized to clean, organize, and prepare data for the dashboard can be found 
+[HERE](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/ATLIQ_MART_cleaning.sql).
 
-Targeted SQL Queries regarding various business questions and deeper analysis can be found HERE.
+Targeted SQL Queries regarding various business questions and deeper analysis can be found 
+[HERE](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/ATLIQ_MART_business.sql).
 
 **Data Structure & Initial Checks**
 AtliQ Mart'S database structure as seen below consists of 6 tables: dim_customers, dim_date, dim_products, dim_target_orders, fact_order_lines, fact_order_aggregate with a total row count of 508,627 records.
