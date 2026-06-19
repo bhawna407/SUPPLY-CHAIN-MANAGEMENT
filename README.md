@@ -25,7 +25,8 @@ Safety Stock Adjustments: Increase safety stock levels for the Food and Beverage
 
 Real-time Alert System: Integrate an automated notification system that flags orders as "At Risk" the moment they miss their scheduled dispatch window.
 
-An interactive Power BI Dashboard can be downloaded HERE.
+An interactive Power BI Dashboard can be downloaded 
+[HERE](https://github.com/bhawna407/SUPPLY-CHAIN-MANAGEMENT/blob/main/SUPPLY%20CHAIN%20MANAG.pbix).
 
 The SQL Queries utilized to inspect and perform quality checks can be found HERE.
 
